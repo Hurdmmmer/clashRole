@@ -27,7 +27,7 @@ IP-CIDR,114.114.115.115/32,no-resolve
 
 
 # 360
-DOMAIN-SUFFIX,chiphell.com
+
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
 DOMAIN-SUFFIX,360safe.com
